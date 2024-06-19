@@ -2,20 +2,22 @@
     "name": "Social-Media_API",
     "version": "1.0.0",
     "description": "API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.",
-    "main": "index.js",
+    "main": "server.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node index",
-      "watch": "nodemon index.js"
-
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server",
+        "watch": "nodemon server.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rahulgaur116/Social-Media_API"
+        "type": "git",
+        "url": "git+https://github.com/rahulgaur116/Social-Media_API"
     },
     "devDependencies": {
-      "nodemon": "^2.0.15"
+        "nodemon": "^2.0.15"
+    },
+    "dependencies": {
+        "express": "^4.19.2",
+        "moment": "^2.30.1",
+        "mongoose": "^8.4.3"
     }
-  }
-
-  
+}

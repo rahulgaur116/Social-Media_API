@@ -39,7 +39,13 @@ Additional routes for managing friend lists and reactions to thoughts.
 
 ## Walkthrough Video
 A walkthrough video demonstrating the functionality of the Social Media API Web App can be found here.
+https://drive.google.com/file/d/1J1IUZ6nvX5B40pNjPDh-8CLeGIi5-wv9/view?usp=drive_link
 
+https://drive.google.com/file/d/1356Tw1kdjtymL22DlIxXGFAc1r84HNzD/view?usp=drive_link
+
+https://drive.google.com/file/d/1W-JnBn3RoZM6yufqQyUgvI-FjNE-eQoX/view?usp=drive_link
+
+https://drive.google.com/file/d/1xdo7mAG-6b0qFriWaXMFmlCP4bUuDyE4/view?usp=drive_link
 ## Contributors
 Rahul Sharma
 
