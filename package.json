@@ -9,6 +9,10 @@
       "watch": "nodemon index.js"
 
     },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/rahulgaur116/Social-Media_API"
+    },
     "devDependencies": {
       "nodemon": "^2.0.15"
     }
